@@ -1,7 +1,6 @@
 # Simple-python-project
 ## A simple calculator program written in Python that performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 
-# Simple calculator in Python
 
 # Function to add two numbers
 def add(x, y):
